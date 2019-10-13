@@ -26,9 +26,6 @@ header {
 #about {
   height: 300px;
   padding-top: 10px;
-}
-
-#about h1 {
   text-align: center;
 }
 
@@ -55,8 +52,9 @@ header {
   float: left;
 }
 
-h1 {
+h2 {
   font-family: 'Lora', serif;
+  font-size: 36px;
 }
 
 h3 {
